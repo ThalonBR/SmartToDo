@@ -27,10 +27,10 @@ SmartToDo é uma aplicação moderna de **listas de tarefas inteligentes** que u
 ## 📷 Screenshots
 
 ### 🔹 Página de Detalhes da Lista
-![SmartToDo Details](./smarttodo-details.jpeg)
+![SmartToDo Details](./smarttodo-details.png)
 
 ### 🔹 Página Inicial
-![SmartToDo Home](./smarttodo-home.jpeg)
+![SmartToDo Home](./smarttodo-home.png)
 
 ---
 
