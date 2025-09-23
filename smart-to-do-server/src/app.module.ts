@@ -6,9 +6,7 @@ import { TaskModule } from './modules/tasks/task.module';
 import { AiModule } from './modules/ai/ai.module';
 import { ListModule } from './modules/list/list.module';
 import { HttpClientWrapper } from './providers/http-client-wrapper';
-import { TaskController } from './modules/tasks/task.controller';
-import { AiController } from './modules/ai/ai.controller';
-import { ListController } from './modules/list/list.controller';
+
 
 @Module({
   imports: [
